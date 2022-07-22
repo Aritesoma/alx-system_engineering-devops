@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#getting pid of current running process
+pidof ./0-what-is-my-pid
