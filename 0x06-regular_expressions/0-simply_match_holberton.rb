@@ -1,2 +1,3 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join
+#Script matches school in any string
+puts ARGV[0].scan(/school/).join
